@@ -1,0 +1,3 @@
+﻿Data Transfer Object(DTO)
+Clases similares a nuestro modelos, estas clases permiten
+compartir información a nuestra aplicación.

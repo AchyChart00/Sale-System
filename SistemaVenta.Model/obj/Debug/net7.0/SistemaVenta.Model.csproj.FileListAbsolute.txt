@@ -1,0 +1,14 @@
+E:\FullStack\CSharp\CShapCurso\SistemaVentaAngular14DotNet7\SistemaVenta\APISistemaVenta\SistemaVenta.Model\bin\Debug\net7.0\SistemaVenta.Model.deps.json
+E:\FullStack\CSharp\CShapCurso\SistemaVentaAngular14DotNet7\SistemaVenta\APISistemaVenta\SistemaVenta.Model\bin\Debug\net7.0\SistemaVenta.Model.runtimeconfig.json
+E:\FullStack\CSharp\CShapCurso\SistemaVentaAngular14DotNet7\SistemaVenta\APISistemaVenta\SistemaVenta.Model\bin\Debug\net7.0\SistemaVenta.Model.dll
+E:\FullStack\CSharp\CShapCurso\SistemaVentaAngular14DotNet7\SistemaVenta\APISistemaVenta\SistemaVenta.Model\bin\Debug\net7.0\SistemaVenta.Model.pdb
+E:\FullStack\CSharp\CShapCurso\SistemaVentaAngular14DotNet7\SistemaVenta\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.csproj.AssemblyReference.cache
+E:\FullStack\CSharp\CShapCurso\SistemaVentaAngular14DotNet7\SistemaVenta\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\FullStack\CSharp\CShapCurso\SistemaVentaAngular14DotNet7\SistemaVenta\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.AssemblyInfoInputs.cache
+E:\FullStack\CSharp\CShapCurso\SistemaVentaAngular14DotNet7\SistemaVenta\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.AssemblyInfo.cs
+E:\FullStack\CSharp\CShapCurso\SistemaVentaAngular14DotNet7\SistemaVenta\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.csproj.CoreCompileInputs.cache
+E:\FullStack\CSharp\CShapCurso\SistemaVentaAngular14DotNet7\SistemaVenta\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.dll
+E:\FullStack\CSharp\CShapCurso\SistemaVentaAngular14DotNet7\SistemaVenta\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\refint\SistemaVenta.Model.dll
+E:\FullStack\CSharp\CShapCurso\SistemaVentaAngular14DotNet7\SistemaVenta\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.pdb
+E:\FullStack\CSharp\CShapCurso\SistemaVentaAngular14DotNet7\SistemaVenta\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.genruntimeconfig.cache
+E:\FullStack\CSharp\CShapCurso\SistemaVentaAngular14DotNet7\SistemaVenta\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\ref\SistemaVenta.Model.dll

@@ -1,0 +1,1 @@
+﻿Utilidades a nivel general para el proyecto

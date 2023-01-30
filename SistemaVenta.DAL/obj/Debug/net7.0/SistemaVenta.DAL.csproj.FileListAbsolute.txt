@@ -1,0 +1,15 @@
+E:\FullStack\CSharp\CShapCurso\SistemaVentaAngular14DotNet7\SistemaVenta\APISistemaVenta\SistemaVenta.DAL\bin\Debug\net7.0\SistemaVenta.DAL.deps.json
+E:\FullStack\CSharp\CShapCurso\SistemaVentaAngular14DotNet7\SistemaVenta\APISistemaVenta\SistemaVenta.DAL\bin\Debug\net7.0\SistemaVenta.DAL.dll
+E:\FullStack\CSharp\CShapCurso\SistemaVentaAngular14DotNet7\SistemaVenta\APISistemaVenta\SistemaVenta.DAL\bin\Debug\net7.0\SistemaVenta.DAL.pdb
+E:\FullStack\CSharp\CShapCurso\SistemaVentaAngular14DotNet7\SistemaVenta\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.csproj.AssemblyReference.cache
+E:\FullStack\CSharp\CShapCurso\SistemaVentaAngular14DotNet7\SistemaVenta\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\FullStack\CSharp\CShapCurso\SistemaVentaAngular14DotNet7\SistemaVenta\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.AssemblyInfoInputs.cache
+E:\FullStack\CSharp\CShapCurso\SistemaVentaAngular14DotNet7\SistemaVenta\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.AssemblyInfo.cs
+E:\FullStack\CSharp\CShapCurso\SistemaVentaAngular14DotNet7\SistemaVenta\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.csproj.CoreCompileInputs.cache
+E:\FullStack\CSharp\CShapCurso\SistemaVentaAngular14DotNet7\SistemaVenta\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.dll
+E:\FullStack\CSharp\CShapCurso\SistemaVentaAngular14DotNet7\SistemaVenta\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net7.0\refint\SistemaVenta.DAL.dll
+E:\FullStack\CSharp\CShapCurso\SistemaVentaAngular14DotNet7\SistemaVenta\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.pdb
+E:\FullStack\CSharp\CShapCurso\SistemaVentaAngular14DotNet7\SistemaVenta\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net7.0\ref\SistemaVenta.DAL.dll
+E:\FullStack\CSharp\CShapCurso\SistemaVentaAngular14DotNet7\SistemaVenta\APISistemaVenta\SistemaVenta.DAL\bin\Debug\net7.0\SistemaVenta.Model.dll
+E:\FullStack\CSharp\CShapCurso\SistemaVentaAngular14DotNet7\SistemaVenta\APISistemaVenta\SistemaVenta.DAL\bin\Debug\net7.0\SistemaVenta.Model.pdb
+E:\FullStack\CSharp\CShapCurso\SistemaVentaAngular14DotNet7\SistemaVenta\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.csproj.CopyComplete

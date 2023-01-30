@@ -1,0 +1,12 @@
+E:\FullStack\CSharp\CShapCurso\SistemaVentaAngular14DotNet7\SistemaVenta\APISistemaVenta\SistemaVenta.DTO\bin\Debug\net7.0\SistemaVenta.DTO.deps.json
+E:\FullStack\CSharp\CShapCurso\SistemaVentaAngular14DotNet7\SistemaVenta\APISistemaVenta\SistemaVenta.DTO\bin\Debug\net7.0\SistemaVenta.DTO.dll
+E:\FullStack\CSharp\CShapCurso\SistemaVentaAngular14DotNet7\SistemaVenta\APISistemaVenta\SistemaVenta.DTO\bin\Debug\net7.0\SistemaVenta.DTO.pdb
+E:\FullStack\CSharp\CShapCurso\SistemaVentaAngular14DotNet7\SistemaVenta\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net7.0\SistemaVenta.DTO.csproj.AssemblyReference.cache
+E:\FullStack\CSharp\CShapCurso\SistemaVentaAngular14DotNet7\SistemaVenta\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net7.0\SistemaVenta.DTO.GeneratedMSBuildEditorConfig.editorconfig
+E:\FullStack\CSharp\CShapCurso\SistemaVentaAngular14DotNet7\SistemaVenta\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net7.0\SistemaVenta.DTO.AssemblyInfoInputs.cache
+E:\FullStack\CSharp\CShapCurso\SistemaVentaAngular14DotNet7\SistemaVenta\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net7.0\SistemaVenta.DTO.AssemblyInfo.cs
+E:\FullStack\CSharp\CShapCurso\SistemaVentaAngular14DotNet7\SistemaVenta\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net7.0\SistemaVenta.DTO.csproj.CoreCompileInputs.cache
+E:\FullStack\CSharp\CShapCurso\SistemaVentaAngular14DotNet7\SistemaVenta\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net7.0\SistemaVenta.DTO.dll
+E:\FullStack\CSharp\CShapCurso\SistemaVentaAngular14DotNet7\SistemaVenta\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net7.0\refint\SistemaVenta.DTO.dll
+E:\FullStack\CSharp\CShapCurso\SistemaVentaAngular14DotNet7\SistemaVenta\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net7.0\SistemaVenta.DTO.pdb
+E:\FullStack\CSharp\CShapCurso\SistemaVentaAngular14DotNet7\SistemaVenta\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net7.0\ref\SistemaVenta.DTO.dll

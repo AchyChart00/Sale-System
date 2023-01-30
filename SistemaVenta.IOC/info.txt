@@ -1,0 +1,9 @@
+﻿Inversion of Control(IoC)
+
+Es un tipo de patron el cual provee cualquier tipo de Callback,
+de los cuales los controles reaccionan. 
+El patrón Dependency Injection (DI) es una versión más específica
+de los Inversion of control pattern, y es acerta de remover todas 
+las dependencias de nuestro código.
+
+Separa la Inyección de Dependencias de nuestra aplicación.

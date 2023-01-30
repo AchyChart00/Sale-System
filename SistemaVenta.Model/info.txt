@@ -1,0 +1,3 @@
+﻿//
+Capa model o ENTITY donde almacenamos clases que 
+representan las tablas de la base de datos.
