@@ -14,7 +14,7 @@ namespace SistemaVenta.DTO
 
         public string? TipoPago { get; set; }
 
-        public decimal? Total { get; set; }
+        public string? TotalTexto { get; set; }
         public DateTime? FechaRegistro { get; set; }
         public virtual ICollection<DTO_DetalleVenta> DetalleVenta { get; set; }
     }
