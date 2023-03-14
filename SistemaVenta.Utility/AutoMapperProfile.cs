@@ -125,7 +125,7 @@ namespace SistemaVenta.Utility
                     opt => opt.MapFrom(origin => Convert.ToDecimal(origin.PrecioTexto, new CultureInfo("es-MX")))
                 )
                 .ForMember(
-                    fate => fate.total,
+                    fate => fate.Total,
                     opt => opt.MapFrom(origin => Convert.ToDecimal(origin.TotalTexto, new CultureInfo("es-MX")))
                 );
             #endregion DetalleVenta
